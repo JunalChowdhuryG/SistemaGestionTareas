@@ -33,7 +33,7 @@ Este proyecto implementa un **Sistema de Gestión de Tareas** con interfaz gráf
 - **Maven** para gestión de dependencias.
 
 ---
-
+<!--
 ## **Estructura del Proyecto**
 
 ```
@@ -46,7 +46,7 @@ src/main/java/com/example/taskmanager/
 │   ├── ValidationAspect.java // Aspecto para validar datos
 │   └── ErrorHandlingAspect.java // Aspecto para gestionar errores
 ```
-
+-->
 ---
 
 ## **Aspectos en el Proyecto**
